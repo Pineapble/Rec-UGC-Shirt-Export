@@ -1,6 +1,7 @@
 # How to recreate your custom shirt using the export model
 
 Make sure you apply this to the blank orange shirt that downloads with your avatar if you try to export a UGC shirt.
+![Step 0 Image](/images/1.png)
 
 ---
 
@@ -19,7 +20,8 @@ EXE Release:
 
 It should look something like this
 
-![Step 1.2 Image](image-placeholder-1.png)
+![Step 1.2 Image](/images/2.png)
+![Step 1.2 Image](/images/2.5.png)
 
 ---
 
@@ -33,7 +35,7 @@ This guide will be based on photopea
 
 You should see this
 
-![Step 2.1 Image](image-placeholder-2.png)
+![Step 2.1 Image](/images/3.png)
 
 ---
 
@@ -41,7 +43,7 @@ You should see this
 
 next, import your shirt texture using file → open and place
 
-![Step 2.2 Image](image-placeholder-3.png)
+![Step 2.2 Image](/images/4.png)
 
 ---
 
@@ -49,7 +51,7 @@ next, import your shirt texture using file → open and place
 
 Drag the shirt layer behind the template layer
 
-![Step 2.3 Image](image-placeholder-4.png)
+![Step 2.3 Image](/images/5.png)
 
 ---
 
@@ -57,7 +59,7 @@ Drag the shirt layer behind the template layer
 
 Right click the shirt layer, and click ‘rasterize’ to ensure you’ll be able to edit it to fit the sides of the template
 
-![Step 2.4 Image](image-placeholder-5.png)
+![Step 2.4 Image](/images/6.png)
 
 ---
 
@@ -69,7 +71,7 @@ You can use the select tool to move part of the image to center it on the other 
 
 It should look like this
 
-![Step 2.5 Image](image-placeholder-6.png)
+![Step 2.5 Image](/images/7.png)
 
 ---
 
@@ -77,7 +79,7 @@ It should look like this
 
 Now click the eye to hide the template layer
 
-![Step 2.6 Image](image-placeholder-7.png)
+![Step 2.6 Image](/images/8.png)
 
 ---
 
@@ -86,16 +88,13 @@ Now click the eye to hide the template layer
 You can select the background layer and use the paint bucket tool to fill in the orange part of the shirt with another colour of your choice, and make further adjustments to the shirt collar or jeans sections.
 
 For further editing knowledge, watch a photopea tutorial.
-
-![Step 2.7 Image](image-placeholder-8.png)
-
 ---
 
 ### 2.8 - Export your shirt
 
 Now export your shirt as png
 
-![Step 2.8 Image](image-placeholder-9.png)
+![Step 2.8 Image](/images/9.png)
 
 ---
 
@@ -105,15 +104,15 @@ Now export your shirt as png
 
 Select the shirt, go to the ‘shading’ tab
 
-![Step 3a.1 Image](image-placeholder-10.png)
+![Step 3a.1 Image](/images/10.png)
 
 ---
 
 ### 3a.2 - Remove unnecessary maps
 
-delete the custom roughness and normal maps, we don’t need those
+delete the custom roughness and normal maps, we don’t really need those where we're going
 
-![Step 3a.2 Image](image-placeholder-11.png)
+![Step 3a.2 Image](/images/11.png)
 
 ---
 
@@ -121,19 +120,16 @@ delete the custom roughness and normal maps, we don’t need those
 
 click the ‘x’ on the remaining base color image module
 
-![Step 3a.3 Image](image-placeholder-12.png)
-
----
-
-### 3a.4 - Add your texture
+![Step 3a.3 Image](/images/12.png)
 
 Then open your shirt texture
 
-![Step 3a.4 Image](image-placeholder-13.png)
+![Step 3a.3a Image](/images/13.png)
 
 ---
 
-Easy Peasy done
+Easy Peasy done!
+![Step 3a done Image](/images/14.png)
 
 ---
 
@@ -143,7 +139,7 @@ Easy Peasy done
 
 Create a material
 
-![Step 3b.1 Image](image-placeholder-14.png)
+![Step 3b.1 Image](/images/15.png)
 
 ---
 
@@ -151,7 +147,7 @@ Create a material
 
 Select the new material, drag your shirt texture to ‘albedo’ in the inspect tab
 
-![Step 3b.2 Image](image-placeholder-15.png)
+![Step 3b.2 Image](/images/16.png)
 
 ---
 
@@ -159,7 +155,7 @@ Select the new material, drag your shirt texture to ‘albedo’ in the inspect 
 
 Drag your material onto the shirt!
 
-![Step 3b.3 Image](image-placeholder-16.png)
+![Step 3b.3 Image](/images/17.png)
 
 ---
 
