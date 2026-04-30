@@ -104,15 +104,14 @@ Now export your shirt as png
 
 Select the shirt, go to the ‘shading’ tab
 
-![Step 3a.1 Image](/images/10.png)
 
 ---
 
 ### 3a.2 - Remove unnecessary maps
 
 delete the custom roughness and normal maps, we don’t really need those where we're going
+![Step 3a.1 Image](/images/10.png)
 
-![Step 3a.2 Image](/images/11.png)
 
 ---
 
@@ -120,16 +119,17 @@ delete the custom roughness and normal maps, we don’t really need those where 
 
 click the ‘x’ on the remaining base color image module
 
-![Step 3a.3 Image](/images/12.png)
+![Step 3a.2 Image](/images/11.png)
+
 
 Then open your shirt texture
 
-![Step 3a.3a Image](/images/13.png)
+![Step 3a.3 Image](/images/12.png)
 
 ---
 
 Easy Peasy done!
-![Step 3a done Image](/images/14.png)
+![Step 3a done Image](/images/13.png)
 
 ---
 
@@ -139,7 +139,7 @@ Easy Peasy done!
 
 Create a material
 
-![Step 3b.1 Image](/images/15.png)
+![Step 3b.1 Image](/images/14.png)
 
 ---
 
@@ -147,7 +147,7 @@ Create a material
 
 Select the new material, drag your shirt texture to ‘albedo’ in the inspect tab
 
-![Step 3b.2 Image](/images/16.png)
+![Step 3b.2 Image](/images/15.png)
 
 ---
 
@@ -155,7 +155,7 @@ Select the new material, drag your shirt texture to ‘albedo’ in the inspect 
 
 Drag your material onto the shirt!
 
-![Step 3b.3 Image](/images/17.png)
+![Step 3b.3 Image](/images/16.png)
 
 ---
 
